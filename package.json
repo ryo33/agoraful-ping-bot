@@ -1,0 +1,27 @@
+{
+  "name": "agoraful-ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "~5.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryo33/agoraful-ping-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryo33/agoraful-ping-bot/issues"
+  },
+  "homepage": "https://github.com/ryo33/agoraful-ping-bot#readme",
+  "dependencies": {
+    "koa": "^1.2.4",
+    "koa-body": "^1.6.0"
+  }
+}
